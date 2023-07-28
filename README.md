@@ -1,6 +1,8 @@
 <a name="top"></a>
 
-![drift-wallpaper-gif](drift-gift.gif)
+<p align="center">
+  <img alt="drift-wallpaper-gif" src="./drift-gift.gif" />
+</p>
 
 
 <p align="center">
