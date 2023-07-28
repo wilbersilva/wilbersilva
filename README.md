@@ -1,6 +1,27 @@
 ![drift-wallpaper-gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bee6c9a9-78f2-4294-ad27-6ca52060f5a5/dewalq9-2eb58582-fb02-4583-93fe-5b3b7742fc34.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlZTZjOWE5LTc4ZjItNDI5NC1hZDI3LTZjYTUyMDYwZjVhNVwvZGV3YWxxOS0yZWI1ODU4Mi1mYjAyLTQ1ODMtOTNmZS01YjNiNzc0MmZjMzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sq76onPcE6mBPbeKXes2_IwxbNtPTWpnK9UBzy3sC2Q)
 
-# About me
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Readme</h2>
+ <p align="center"></p>
+</p>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <br />
+    <br />
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
+  </p>
+</p>
+
+## About me
 <a name="top"></a>
 <details> 
 <summary>👇 Drift</summary>
@@ -128,6 +149,13 @@ Na área de `tecnologia` a um bom tempo sempre buscando conhecimento e pronto pa
 | Playstation 4    | ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)          | 
 | Playstation 5    | ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)          | 
 | Xbox             | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)   |
+
+[(Back to top)](#top)
+
+![Top Langs](https://camo.githubusercontent.com/fbf4f4aadb79493225ed43d6daca84015eafa94d496ef07bbf723200e12f923c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261)
+## Stats
+
+
 
 [(Back to top)](#top)
 
