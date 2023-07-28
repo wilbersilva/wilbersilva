@@ -1,4 +1,6 @@
-![drift-wallpaper-gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bee6c9a9-78f2-4294-ad27-6ca52060f5a5/dewalq9-2eb58582-fb02-4583-93fe-5b3b7742fc34.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlZTZjOWE5LTc4ZjItNDI5NC1hZDI3LTZjYTUyMDYwZjVhNVwvZGV3YWxxOS0yZWI1ODU4Mi1mYjAyLTQ1ODMtOTNmZS01YjNiNzc0MmZjMzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sq76onPcE6mBPbeKXes2_IwxbNtPTWpnK9UBzy3sC2Q)
+<a name="top"></a>
+
+![drift-wallpaper-gif](drift-gift.gif)
 
 
 <p align="center">
@@ -22,7 +24,6 @@
 </p>
 
 ## About me
-<a name="top"></a>
 <details> 
 <summary>👇 Drift</summary>
 <hr>
